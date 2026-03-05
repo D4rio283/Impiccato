@@ -16,5 +16,5 @@ l'ip della macchina su cui gira il server. Se viene istanziato un client nel dis
 
 Se invece si desidera giocare in locale, è possibile avviare il server e poi eseguire tre istanze del client sullo stesso dispositivo (in locale), simulando così una partita tra tre giocatori. L'ip in questo caso sarà quello di localhost.
 
-Buon divertimento...e ricordate: basta una lettera per vincere...ma anche per rimanere appesi!
+Buon divertimento...e ricordate: basta una lettera per vincere...ma anche per rimanere appesi! 😆
 
