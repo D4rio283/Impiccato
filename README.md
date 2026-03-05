@@ -10,7 +10,7 @@ Ciascun giocatore ne ha a disposizione solo 6: basta poco per essere eliminati!
 Per giocare online è sufficiente scaricare i codici presenti nella repository, avviare il Server e successivamente il Client sui vari dispositivi dei giocatori.
 È importante ricordare che il server deve essere avviato da un solo giocatore, mentre gli altri client si collegheranno ad esso.
 
-Affinché la connessione funzioni correttamente, i computer dei giocatori devono essere collegati tra loro tramite una rete; e in tal caso, nel codice della classe Client bisognerà inserire
+Affinché la connessione funzioni correttamente, i computer dei giocatori devono essere collegati tra loro tramite la stessa rete; e in tal caso, nel codice della classe Client bisognerà inserire
 l'ip della macchina su cui gira il server. Se viene istanziato un client nel dispositivo in cui già viene eseguito il server, l'ip assegnato nel codice dovrà essere quello di localhost
 (127.0.0.1).
 
