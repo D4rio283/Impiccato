@@ -16,8 +16,7 @@ public class ClientHandler implements Runnable {
     private BufferedReader in;
     private PrintWriter out;
         
-    //questi tre attributi sono volatile perché vengono usati da due thread diversi nello stesso momento: thread run() che li scrive e il thread 
-    //server che li legge
+    
 
     private String  ultimoMessaggio= null;
     private boolean messaggioDisponibile = false;
